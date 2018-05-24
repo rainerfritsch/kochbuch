@@ -18,9 +18,7 @@
 * Fett für das Blech
 * Zucker zum Bestreuen
 
-Aus Quark, Öl, Ei, Milch, Zucker, Salz, Vanillezucker, Mehl Backpulver wird ein
-schöner, glatter Teig gerührt. Teig ausrollen auf einem gefetteten Blech und gut
-mit Butter bestreichen.
+Aus Quark, Öl, Ei, Milch, Zucker, Salz, Vanillezucker, Mehl und Backpulver wird ein
+schöner, glatter Teig gerührt. Teig ausrollen auf einem gefetteten Blech.
 Entkernte Zwetschgen dicht auflegen, bei **200°C etwa 30 Minuten** backen. Gleich nach
-dem Backen mit zerlassener, leicht angebräunter Butter beträufeln und mit Zucker
-bestreuen
+dem Backen mit zerlassener, beträufeln und mit Zucker bestreuen.

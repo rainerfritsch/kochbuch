@@ -11,7 +11,7 @@
 | 250 ml | Milch |
 | 375 g	| Mehl |
 | 1 Pck.	| Backpulver |
-| 0,5 Tasse/n	| Kakaopulver |  |
+| 1/2 Tasse | Kakaopulver |  |
 
 Butter und Zucker schaumig rühren. Alle anderen Zutaten, egal in der Reihenfolge, zugeben.
 Eine Kastenform wird mit Butter ausgestrichen, danach mit Mehl ausgestreut.

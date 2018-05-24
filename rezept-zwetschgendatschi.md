@@ -4,7 +4,7 @@
 |:------------- |:-------------|
 |150 g	|Quark|
 |6 EL	|Öl|
-|1	|Ei(er)|
+|1	|Ei|
 |4 EL	|Milch|
 |80 g	|Zucker|
 |1 Prise	|Salz|
@@ -12,8 +12,8 @@
 |300 g	|Mehl|
 |1 Pkt.	|Backpulver|
 |20 g	|Butter, zerlassen|
-|1 kg	|Pflaumen (Zwetschgen)|
-|30 g	|Butter, zerlassen und leicht gebräunt|
+|1 kg	|Pflaumen |
+|30 g	|Butter, zerlassen|
 
 * Fett für das Blech
 * Zucker zum Bestreuen
